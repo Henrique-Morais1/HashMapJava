@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AnimalT1
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ AnimalT1\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=especie\ habilidade
+comment1.target=AnimalT1(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEspecie()
+comment3.params=especie
+comment3.target=void\ setEspecie(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getHabilidade()
+comment5.params=habilidade
+comment5.target=void\ setHabilidade(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
